@@ -4,4 +4,4 @@ The repo is inspired by Github account of [darkprinx](https://github.com/darkpri
 
 
 ## My Progress
-Day 1 - Question 1-3
+- Day 1 - Question 1-3
